@@ -1,0 +1,8 @@
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\bin\Debug\ResolvingPortConflicts.exe
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\bin\Debug\ResolvingPortConflicts.pdb
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\obj\Debug\解决端口占用.Form1.resources
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\obj\Debug\ResolvingPortConflicts.Properties.Resources.resources
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\obj\Debug\ResolvingPortConflicts.csproj.GenerateResource.cache
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\obj\Debug\ResolvingPortConflicts.csproj.CoreCompileInputs.cache
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\obj\Debug\ResolvingPortConflicts.exe
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\obj\Debug\ResolvingPortConflicts.pdb

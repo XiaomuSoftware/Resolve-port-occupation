@@ -1,0 +1,9 @@
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\bin\Debug\解决端口占用.exe
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\bin\Debug\解决端口占用.pdb
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\obj\Debug\解决端口占用.csprojAssemblyReference.cache
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\obj\Debug\解决端口占用.Form1.resources
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\obj\Debug\解决端口占用.Properties.Resources.resources
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\obj\Debug\解决端口占用.csproj.GenerateResource.cache
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\obj\Debug\解决端口占用.csproj.CoreCompileInputs.cache
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\obj\Debug\解决端口占用.exe
+D:\A_C#_game_work\解决端口占用\解决端口占用\解决端口占用\obj\Debug\解决端口占用.pdb
